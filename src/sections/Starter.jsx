@@ -45,7 +45,7 @@ export default function Starter() {
           animate={controls}
           transition={{ type: "tween" }}
         >
-          <img src={WorkImage} alt="Work Image" />
+          <img src={WorkImage} alt="Work" />
         </motion.div>
       </div>
     </div>
