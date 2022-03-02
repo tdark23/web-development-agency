@@ -42,28 +42,28 @@ function Footer() {
             <h3>Quick Links</h3>
             <ul>
               <li>
-                <a href="#">About</a>
+                <a href="#about">About</a>
               </li>
               <li>
-                <a href="#">Testimonial</a>
+                <a href="#testimonials">Testimonial</a>
               </li>
               <li>
-                <a href="#">Contact Us</a>
+                <a href="#contact">Contact Us</a>
               </li>
               <li>
-                <a href="#">Portfolio</a>
+                <a href="#portfolio">Portfolio</a>
               </li>
               <li>
-                <a href="#">Career</a>
+                <a href="#career">Career</a>
               </li>
               <li>
-                <a href="#">Blog</a>
+                <a href="#blog">Blog</a>
               </li>
               <li>
-                <a href="#">Terms & Conditions</a>
+                <a href="#terms">Terms & Conditions</a>
               </li>
               <li>
-                <a href="#">Privacy Policy</a>
+                <a href="#privacy">Privacy Policy</a>
               </li>
             </ul>
           </motion.div>
@@ -76,25 +76,25 @@ function Footer() {
             <h3>Industires</h3>
             <ul>
               <li>
-                <a href="#">Website Development</a>
+                <a href="#website">Website Development</a>
               </li>
               <li>
-                <a href="#">Mobile App Development</a>
+                <a href="#mobile">Mobile App Development</a>
               </li>
               <li>
-                <a href="#">Website Design</a>
+                <a href="#design">Website Design</a>
               </li>
               <li>
-                <a href="#">Mobile App Design</a>
+                <a href="#app">Mobile App Design</a>
               </li>
               <li>
-                <a href="#">Digital Marketing</a>
+                <a href="#marketing">Digital Marketing</a>
               </li>
               <li>
-                <a href="#">Graphic Design</a>
+                <a href="#graphic">Graphic Design</a>
               </li>
               <li>
-                <a href="#">IOS App Development</a>
+                <a href="#ios">IOS App Development</a>
               </li>
             </ul>
           </motion.div>
@@ -147,22 +147,22 @@ function Footer() {
           </div>
           <div className="icons">
             <div className="icon">
-              <a href="#">
+              <a href="#facebook">
                 <FaFacebookF />
               </a>
             </div>
             <div className="icon">
-              <a href="#">
+              <a href="#instagram">
                 <AiFillInstagram />
               </a>
             </div>
             <div className="icon">
-              <a href="#">
+              <a href="#linkedin">
                 <AiFillLinkedin />
               </a>
             </div>
             <div className="icon">
-              <a href="#">
+              <a href="#twitter">
                 {" "}
                 <FaTwitter />
               </a>
