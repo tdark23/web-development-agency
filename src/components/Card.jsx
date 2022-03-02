@@ -8,7 +8,6 @@ function Card({ logo, title, animateCustom }) {
       className="card"
       variants={cardAnimation}
       initial="hidden"
-      animate="show"
       animate={animateCustom}
       transition={{ stiffness: 5000 }}
     >
